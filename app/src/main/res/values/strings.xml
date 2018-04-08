@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Minyan</string>
+    <string name="title_activity_welcome">Introduction</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Lets Go</string>
+
+    <string name="slide_1_title">Welcome to Smart Minyan!</string>
+    <string name="slide_1_desc">The easiest way find and make minyanim anywhere!</string>
+
+    <string name="slide_2_title">Find Minyanim</string>
+    <string name="slide_2_desc">Smart Minyan knows your location and finds minyanim near you!</string>
+
+    <string name="slide_3_title">Make Minyanim</string>
+    <string name="slide_3_desc">Just tap the + button to create your own minyan that others can find!</string>
+
+    <string name="slide_4_title">Smart Minyan</string>
+    <string name="slide_4_desc">Minyan collaboration made easy!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
